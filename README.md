@@ -30,8 +30,6 @@ message area
     * Mixolydian
     * Aeolian (natural minor)
     * Locrian
-    * Harmonic Minor
-    * Melodic Minor
   * Pitch
     * concert pitch
     * instrument pitch
