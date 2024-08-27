@@ -222,7 +222,7 @@ export const INSTRUMENTS: Instrument[] = [
         lowNote: 10, // Bb1
         highNote: 51, // Eb5
         instrumentPitch: KEYSIGNATURES.find((k) => k.name == 'C') as KeySignature,
-        clef: { name: 'base'},
+        clef: { name: 'bass'},
         octaveShift: 1
     },
     {
